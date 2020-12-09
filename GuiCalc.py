@@ -3,11 +3,6 @@ from PyQt5 import QtWidgets
 from gdcalc import Ui_MainWindow
 import sys
 
-1234567890
-234567
-234546
-234546
-
 
 class mywindow(QtWidgets.QMainWindow):
     def __init__(self):
